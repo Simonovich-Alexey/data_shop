@@ -1,11 +1,11 @@
 categories:
-  - id: 224
-    name: Смартфоны
-  - id: 15
-    name: Аксессуары
   - id: 1
+    name: Смартфоны
+  - id: 2
+    name: Аксессуары
+  - id: 3
     name: Flash-накопители
-  - id: 5
+  - id: 4
     name: Телевизоры
     
 goods:
